@@ -1,7 +1,7 @@
 # talk-to-one
 This repository contains three main folders
 - [Code Snapshots](https://github.com/sreelakshmi314/spotify-cloning/tree/main/lib): Contains code snapshots
-- [Video Snap](https://github.com/sreelakshmi314/spotify-cloning/tree/main/video%20snap): Contains sample video
+- [Video Snap](https://github.com/sreelakshmi314/spotify-cloning/tree/main/video%20snap): Contains sample video for both dark and light mode
 
 ### Used Components
 - [Flutter](https://flutter.dev/) & [Dart](https://dart.dev/): For developing and building
